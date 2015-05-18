@@ -72,4 +72,4 @@ theme: jacman
 deploy:
   type: git 
   repo: git@github.com:xiaonvjing/xiao.github.io.git 
-  branch: master 
+  branch: gh-pages  
